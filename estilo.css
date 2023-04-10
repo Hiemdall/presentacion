@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+	padding: 0;
+}
+section {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 10%;
+    
+}
+
+button {
+    background-color: #136bdf;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+}
